@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zombster.github.io/atom.xml" rel="self"/>
   <link href="http://zombster.github.io/"/>
-  <updated>2013-05-30T09:59:51+05:30</updated>
+  <updated>2013-05-30T12:20:23+05:30</updated>
   <id>http://zombster.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,10 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[ZOMBSTER]]></title>
+    <link href="http://zombster.github.io/blog/2013/05/30/zombster/"/>
+    <updated>2013-05-30T12:20:00+05:30</updated>
+    <id>http://zombster.github.io/blog/2013/05/30/zombster</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[test]]></title>
     <link href="http://zombster.github.io/blog/2013/05/30/test/"/>
     <updated>2013-05-30T09:59:00+05:30</updated>
     <id>http://zombster.github.io/blog/2013/05/30/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://zombster.github.io/blog/2013/05/29/first-post/"/>
+    <updated>2013-05-29T22:10:00+05:30</updated>
+    <id>http://zombster.github.io/blog/2013/05/29/first-post</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
