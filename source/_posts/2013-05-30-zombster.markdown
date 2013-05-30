@@ -1,0 +1,7 @@
+---
+layout: post
+title: "ZOMBSTER"
+date: 2013-05-30 12:20
+comments: true
+categories: 
+---
